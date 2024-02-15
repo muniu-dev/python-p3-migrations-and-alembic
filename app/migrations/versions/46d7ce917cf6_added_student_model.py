@@ -1,8 +1,8 @@
 """Added Student model
 
-Revision ID: c96a7f776418
-Revises: 634c3a402194
-Create Date: 2023-12-15 22:43:40.350780
+Revision ID: 46d7ce917cf6
+Revises: 4f05c5e3f514
+Create Date: 2023-11-06 12:27:41.497484
 
 """
 from alembic import op
@@ -10,8 +10,8 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = 'c96a7f776418'
-down_revision = '634c3a402194'
+revision = '46d7ce917cf6'
+down_revision = '4f05c5e3f514'
 branch_labels = None
 depends_on = None
 

@@ -1,6 +1,3 @@
-# models.py
-
-#!/usr/bin/env python3
 from datetime import datetime
 
 from sqlalchemy import create_engine, desc
